@@ -1,0 +1,29 @@
+/* section card */
+
+.card {
+    display: flex;
+}
+
+.card img {
+    width: 100px;
+}
+
+.cards {
+    margin: 2% 30%;
+}
+
+.unitt-price {
+    margin-left: 150px;
+}
+
+i {
+    cursor: pointer;
+}
+
+
+/* Total price  */
+
+.total-price-container {
+    text-align: center;
+    margin-bottom: 100px;
+}
